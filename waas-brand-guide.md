@@ -1,7 +1,8 @@
 ![Logo WAAS](/assets/logo-waas.svg)
 
 **WAAS BRAND GUIDE**
-Author: Adão Lima
+
+Author: Adão Lima  
 version:1.0.0
 
 **Sumário**
