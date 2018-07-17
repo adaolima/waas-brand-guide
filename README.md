@@ -75,11 +75,47 @@ O jovem e a tecnologia são irmãos do 'novo', da inocação.
     CMYK: 0%, 88%, 75%, 0%
 ```
 
+**4.1. Monocromia**
+
+!\[Logo WAAS\](/assets/logo-waas-pb.svg)
+
 **5. Grafismos**
 
  Através das escolhas, de oportunidades, que se constroi as trilhas, os caminhos da vida.
  Coloque toda energia, todo o potencial, nas melhores trilhas.
  Trilhas de circuitos;
+
+
+
+!\[WAAS cover\](/assets/a-faisca.svg)
+
+\*\*\*A Faísca*\*\*
+
+
+
+!\[WAAS cover](/assets/grafismo-cover-presentation.png)
+
+***Capa para apresentação***
+
+
+
+!\[WAAS lighting](/assets/grafismo-light.png)
+
+*\*\*Grafismos com logotipo*\*\*
+
+
+
+!\[WAAS thinking\](/assets/grafismos-think.png)
+
+\*\*\*Grafismos com logotipo\*\*\*
+
+
+
+!\[ WAAS heart\](/assets/grafismos-heart.png)
+
+\*\*\*Grafismos com logotipo*\*
+
+
 
 **6. Proporção**
 
