@@ -1,5 +1,4 @@
 ![Logo WAAS](/assets/logo-waas.svg)
-![Logo WAAS]({{ site.github.repository_url }}/assets/logo-waas.svg)
 
 **WAAS BRAND GUIDE**
 Author: Adão Lima
