@@ -77,7 +77,7 @@ O jovem e a tecnologia são irmãos do 'novo', da inocação.
 
 **4.1. Monocromia**
 
-!\[Logo WAAS\](/assets/logo-waas-pb.svg)
+![Logo WAAS](/assets/logo-waas-pb.svg)
 
 **5. Grafismos**
 
@@ -87,31 +87,31 @@ O jovem e a tecnologia são irmãos do 'novo', da inocação.
 
 
 
-!\[WAAS cover\](/assets/a-faisca.svg)
+![WAAS faisca](/assets/a-faisca.svg)
 
 \*\*\*A Faísca*\*\*
 
 
 
-!\[WAAS cover](/assets/grafismo-cover-presentation.png)
+![WAAS cover](/assets/grafismo-cover-presentation.png)
 
 ***Capa para apresentação***
 
 
 
-!\[WAAS lighting](/assets/grafismo-light.png)
+![WAAS lighting](/assets/grafismo-light.png)
 
 *\*\*Grafismos com logotipo*\*\*
 
 
 
-!\[WAAS thinking\](/assets/grafismos-think.png)
+![WAAS thinking](/assets/grafismos-think.png)
 
 \*\*\*Grafismos com logotipo\*\*\*
 
 
 
-!\[ WAAS heart\](/assets/grafismos-heart.png)
+![WAAS heart](/assets/grafismos-heart.png)
 
 \*\*\*Grafismos com logotipo*\*
 
